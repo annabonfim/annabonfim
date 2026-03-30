@@ -12,7 +12,7 @@
 ### 🛠️ Tecnologias que estudo/trabalho:
 - **Linguagens:** Python, Java, JavaScript, TypeScript, C#  
 - **Web & Mobile:** React, Next.js, Expo/React Native, .NET  
-- **Banco de Dados:** Oracle 
+- **Banco de Dados:** Oracle, PostgreSQL
 - **IA & Dados:** Python (Pandas, Scikit-Learn), APIs de IA, Chatbots  
 - **IoT:** prototipagem com sensores, automação residencial/empresarial  
 - **Outros:** Git/GitHub, Docker (básico), automações  
